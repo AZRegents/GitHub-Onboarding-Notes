@@ -1,0 +1,56 @@
+# Developer Onboarding & GitHub Best Practices
+
+This guide captures the key technical onboarding items, code snippets, and best practices discussed in the May 2, 2025 Developer Huddle.
+
+---
+
+## Onboarding Items
+
+### GitHub Repository Setup
+- Create a repository per app or project.
+- Reviewed GitHub UI or terminal for commits.
+
+- **Important**: Avoid saving repos in OneDrive (causes sync conflicts).
+  - Recommended path: `C:\Users\YourName\GitHub`  or C:\Users\YourName\Source 
+
+### Transferring Repositories
+- Use `Settings > Transfer` in GitHub to move repos from personal to org.
+- GitHub now requires **token-based or SSH authentication**—no username/password login.
+
+### GitHub Notifications in Microsoft Teams
+- Set up GitHub → ABOR Teams  → GitHub Channel integration to update team on repo activity.
+- TO-DO Add setup instructions in the onboarding repo.
+
+### VS Code Workspace Tips
+- Use Workspaces and Save Workspace As.
+- Keep `.code-workspace` folder **outside** repo, next to repo folder.
+
+### Power Platform Snippets Repository
+- Creating separate markdown files or sections for:
+  - Power Apps
+  - Power Automate
+  - SharePoint
+
+###  Recommended VS Code Extensions
+- **Power Platform Tools**
+- **SQL Server Integration**
+- **C# Dev Kit** (for legacy apps)
+- Document extensions in onboarding notes.
+
+---
+
+## Code Snippets 
+
+### Markdown Formatting Examples
+```markdown
+# H1 Header
+## H2 Header
+### H3 Header
+- Use horizontal rules (`---`) and headers (`##`) to organize tips.
+- Bullet point
+1. Numbered list
+
+---
+
+- Bullet point
+1. Numbered list
