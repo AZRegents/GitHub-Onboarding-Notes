@@ -1,6 +1,6 @@
 # Developer Onboarding & GitHub Best Practices
 
-This guide captures the key technical onboarding items, code snippets, and best practices discussed in the May 2, 2025 Developer Huddle.
+May 2, 2025 Developer Huddle.
 
 ---
 
