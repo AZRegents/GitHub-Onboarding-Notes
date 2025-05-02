@@ -1,6 +1,11 @@
-# GitHub-Onboarding-Notes
+# GitHub Learning Pathways & Resources
+https://resources.github.com/learn/pathways
 
----
+# Onboarding
+https://docs.github.com/en/get-started/onboarding
+<a href="https://docs.github.com/en/get-started/onboarding/getting-started-with-github-team>
+
+# ABOR GitHub-Onboarding-Notes
 
 ### Transfer repo from one Org (or personal) into another Org
 - Go to the repository you want to transfer.  
