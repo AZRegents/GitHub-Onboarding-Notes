@@ -10,9 +10,8 @@
 
 ## Pasting in an Image then resizing
 ### Resized version
+<img src="https://github.com/user-attachments/assets/1eac2a13-f80e-45fd-8b12-a4a78e684421" width="200" style="height:auto;" />
+### Original Image pasted directly 
+![image](https://github.com/user-attachments/assets/1eac2a13-f80e-45fd-8b12-a4a78e684421)
 
-<img src="https://github.com/user-attachments/assets/cd1a05cc-21d1-40ba-aeec-443b27b870a2" width="200" style="height:auto;" />
 
-### Original version
-
-![image](https://github.com/user-attachments/assets/cd1a05cc-21d1-40ba-aeec-443b27b870a2)
