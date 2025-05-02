@@ -1,5 +1,4 @@
 # GitHub-Onboarding-Notes
-![image](https://github.com/user-attachments/assets/4890dacc-fbec-4bd6-99b8-bcf1eed826f3)
 
 ---
 
