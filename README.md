@@ -3,7 +3,6 @@ https://resources.github.com/learn/pathways
 
 # Onboarding
 https://docs.github.com/en/get-started/onboarding
-<a href="https://docs.github.com/en/get-started/onboarding/getting-started-with-github-team>
 
 # ABOR GitHub-Onboarding-Notes
 
