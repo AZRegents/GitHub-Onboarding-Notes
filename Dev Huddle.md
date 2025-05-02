@@ -13,10 +13,6 @@ This guide captures the key technical onboarding items, code snippets, and best 
 - **Important**: Avoid saving repos in OneDrive (causes sync conflicts).
   - Recommended path: `C:\Users\YourName\GitHub`  or C:\Users\YourName\Source 
 
-### Transferring Repositories
-- Use `Settings > Transfer` in GitHub to move repos from personal to org.
-- GitHub now requires **token-based or SSH authentication**—no username/password login.
-
 ### GitHub Notifications in Microsoft Teams
 - Set up GitHub → ABOR Teams  → GitHub Channel integration to update team on repo activity.
 - TO-DO Add setup instructions in the onboarding repo.
@@ -38,6 +34,10 @@ This guide captures the key technical onboarding items, code snippets, and best 
 - Document extensions in onboarding notes.
 
 
+### Transferring Repositories
+- Use `Settings > Transfer` in GitHub to move repos from personal to org.
+- GitHub now requires **token-based or SSH authentication**—no username/password login.
+- 
 ### Transfer repo from one Org (or personal) into another Org
 - Go to the repository you want to transfer.  
 - **Settings**.  
@@ -58,6 +58,17 @@ This guide captures the key technical onboarding items, code snippets, and best 
 
 ## Code Snippets 
 
+---
+
+## Pasting in an Image then resizing
+### Resized version
+<img src="https://github.com/user-attachments/assets/1eac2a13-f80e-45fd-8b12-a4a78e684421" width="200" style="height:auto;" />
+
+
+### Original Image pasted directly   
+![image](https://github.com/user-attachments/assets/1eac2a13-f80e-45fd-8b12-a4a78e684421)
+
+
 ### Markdown Formatting Examples
 ```markdown
 # H1 Header
@@ -67,12 +78,5 @@ This guide captures the key technical onboarding items, code snippets, and best 
 - Bullet point
 1. Numbered list
 
----
 
-## Pasting in an Image then resizing
-### Resized version
-<img src="https://github.com/user-attachments/assets/1eac2a13-f80e-45fd-8b12-a4a78e684421" width="200" style="height:auto;" />
-
-### Original Image pasted directly   
-![image](https://github.com/user-attachments/assets/1eac2a13-f80e-45fd-8b12-a4a78e684421)
 
