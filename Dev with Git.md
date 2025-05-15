@@ -19,8 +19,7 @@
 No centralized record of what changed, who changed it, or why.
 
 ---
-We're Missing Without GitHub
->>>>>>> main
+ 
 ## What We're Missing Without GitHub
 Without GitHub integration, we lose out on:
 
@@ -139,7 +138,7 @@ GitHub combined with Power Platform or Web Development allows us to:
 ---
 
 
-## Slide 7: Recommendation
+## Recommendations
 
 Begin GitHub adoption for both Power Platform and website projects:
 
