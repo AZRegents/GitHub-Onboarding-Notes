@@ -5,7 +5,7 @@
 
 ---
 
-## Slide 1: Current State – Website & Power Apps Development
+## Current State – Website & Power Apps Development
 
 **Web Development:**
 - Developers manage everything locally or directly on the host server.
@@ -22,7 +22,7 @@ No centralized record of what changed, who changed it, or why.
 
 ---
 
-## Slide 2: What We're Missing Without GitHub
+## What We're Missing Without GitHub
 
 Without GitHub integration, we lose out on:
 
@@ -34,7 +34,7 @@ Without GitHub integration, we lose out on:
 
 ---
 
-## Slide 3: What GitHub Enables
+## What GitHub Enables
 
 GitHub combined with Power Platform or Web Development allows us to:
 
@@ -47,7 +47,7 @@ GitHub combined with Power Platform or Web Development allows us to:
 
 ---
 
-## Slide 4: Hybrid Setup – Best of Both Worlds
+## Hybrid Setup – Best of Both Worlds
 
 | Task                      | Tool                                      |
 |---------------------------|-------------------------------------------|
@@ -59,7 +59,7 @@ GitHub combined with Power Platform or Web Development allows us to:
 
 ---
 
-## Slide 5: Next Step Options
+## Next Step Options
 
 **Option 1 – Minimal Lift**
 - Continue using Power Platform Pipelines for deployment.
@@ -73,7 +73,7 @@ GitHub combined with Power Platform or Web Development allows us to:
 
 ---
 
-## Slide 6: Why Now?
+## Why Now?
 
 - Growing complexity in apps and websites.
 - Increasing collaboration across departments.
@@ -81,7 +81,7 @@ GitHub combined with Power Platform or Web Development allows us to:
 - A modern DevOps approach aligns with long-term scalability and enterprise readiness.
 
 ---
-## Slide 6: Web Development Integration with GitHub
+## Web Development Integration with GitHub
 
 **Current State:**
 - Developers manage websites locally or directly on the host server
@@ -101,7 +101,7 @@ GitHub combined with Power Platform or Web Development allows us to:
 - Faster troubleshooting and rollback capabilities
 
 ---
-## Slide 7: Power Platform Integration with GitHub
+## Power Platform Integration with GitHub
 
 **Current State:**
 - Using Power Platform Pipelines for Dev → Prod deployment
@@ -122,7 +122,7 @@ GitHub combined with Power Platform or Web Development allows us to:
 
 ---
 
-## Slide 8: SQL & Azure Integration with GitHub
+## SQL & Azure Integration with GitHub
 
 **Current State:**
 - No dev/prod split for SQL or Azure services
