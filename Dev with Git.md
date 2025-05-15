@@ -3,7 +3,7 @@
 **Presented by:** Bryan Barker
 **Date:** Next Wednesday
 
----
+--- 
 
 ## Current State – Website & Power Apps Development
 
