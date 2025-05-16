@@ -90,9 +90,19 @@ markdown
 ```
 - Use horizontal rules (`---`) and headers (`##`) to organize tips.
 - Bullet point = `-`
+  
 1. Numbered list
+2. Numbered
+3. List
 
 
+> This is a blockquote in Markdown.<br/>
+> See? it's so cool!
+> It can span multiple lines.
+
+
+> Another quote acting as parent
+>> Nested quote acting as child
 
 
 
