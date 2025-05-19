@@ -6,17 +6,32 @@
 - No version history or tracking of changes.
 - Risk of overwriting each other’s work or losing prior versions.
 
+- Goals - Push code effortlessly, Version Control Ensure Dev and Prod are the same. 
+
 **Power Apps Development (Pipelines):**
 - Power Platform Pipelines move apps from Dev → Test → Prod.
 - Click-to-deploy approach with strong governance.
 - Great for simplicity and control, but lacks file-based source tracking.
 
+- Goals - Push code effortlessly, Version Control Ensure Dev and Prod are the same. 
+
 **SQL:**
 - Production and Development
-- more here.
+- in FAFSA Portal
+- Duplicating efforts in Dev and Production.
+- Manually making updates in Dev, mirroring updates in production.
+- Needs time to fully understand how this will benefit workflow.
 
-**Challenge:**  
-No centralized record of what changed, who changed it, or why.
+- Goals - Push code effortlessly, Ensure Dev and Prod are the same. 
+
+
+
+**Goals:**  
+- No centralized record of what changed, who changed it, or why.
+- Version Control Ensure Dev and Prod are the same.
+- Easily ensure Dev and Prod are the same.
+- Ensure Pipelines are utilized in compliment with version controls.
+
 
 ---
  
